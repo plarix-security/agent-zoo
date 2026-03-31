@@ -1,4 +1,3 @@
-````markdown
 # agent-zoo
 
 A collection of real-world and representative agentic systems for security testing.
