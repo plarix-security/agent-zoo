@@ -74,6 +74,3 @@ Run or inspect any example system from its folder.
 ## Goal
 
 Make agent security testing practical, repeatable, and grounded in real agent systems.
-
-```
-```
